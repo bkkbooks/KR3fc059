@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc059/tls/v1/juan/20
+seq: 20
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 術曰倍截積自之爲實從空四之截積爲第一廉四之圓徑爲第二廉五虛隅開三乘方得矢草曰立天元一爲矢倍截積得以天元除之得爲矢弦幷以天元减之得下爲弦自之得爲弦冪寄左然後以天元减圓徑二百五十步得爲矢徑差又以天元乘之得又四之得下式爲同數與寄左相消得下式開三乘方得二十五步卽矢也合問弧矢筭術細草
+  hash: sha256:517739c707610a9ebbb24906b6709abed6011ebe3ab95c0a4df1fd5cf3292234
+metadata:
+  title: 弧矢算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc059.xml
+hash: sha256:720b945492dd19615065f2a96a593c68cf8b278c60409d4372956830c6ca6d14

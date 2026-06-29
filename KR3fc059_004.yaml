@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc059/tls/v1/juan/4
+seq: 4
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弧矢算術細草元和李鋭學弧矢圖式今問正數矢二十五步弦一百五十步圓徑二百五十步弧背一百五十五步殘周五百九十五步截積二千一百八十七步半今有矢二十五步弦一百五十步問圓徑幾何答曰圓徑二百五十步術曰矢自乘于上又以半弦自之加上位為實矢
+  hash: sha256:aa74496b968c3e6245c4c001d91823f4e2d78d821bbc0ba4c4926a4c24462e7b
+metadata:
+  title: 弧矢算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc059.xml
+hash: sha256:665be84f0a952541dee6346b88abb68272c3977479139b63dc8c9fb07c5b0e18

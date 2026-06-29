@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc059/tls/v1/juan/11
+seq: 11
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 弧矢算術細草
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc059.xml
+hash: sha256:c425682c6d2d2be5dfb48214c0055ed2d3591d57b20beef7cb1ad3ab769e0ee8

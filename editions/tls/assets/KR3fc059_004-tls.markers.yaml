@@ -1,0 +1,33 @@
+canonical_identifier: bkk:krp/KR3fc059/tls/v1/markers/4
+seq: 4
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR3fc059_tls_001-p2.s1}
+  - {type: line-break, offset: 0, content: '', id: KX_1}
+  - {type: 'tls:seg', offset: 6, content: '', id: KR3fc059_tls_001-p2.s2}
+  - {type: line-break, offset: 6, content: '', id: KX_2_dup2, _xml_error: duplicate-id, _xml_original_id: KX_2}
+  - {type: 'tls:seg', offset: 11, content: '', id: KR3fc059_tls_001-p2.s3}
+  - {type: line-break, offset: 11, content: '', id: KX_3_dup2, _xml_error: duplicate-id, _xml_original_id: KX_3}
+  - {type: 'tls:seg', offset: 15, content: '', id: KR3fc059_tls_001-p2.s12}
+  - {type: line-break, offset: 15, content: '', id: KX_12}
+  - {type: 'tls:seg', offset: 19, content: '', id: KR3fc059_tls_001-p2.s13}
+  - {type: line-break, offset: 19, content: '', id: KX_13}
+  - {type: 'tls:seg', offset: 24, content: '', id: KR3fc059_tls_001-p2.s14}
+  - {type: line-break, offset: 24, content: '', id: KX_14}
+  - {type: 'tls:seg', offset: 30, content: '', id: KR3fc059_tls_001-p2.s15}
+  - {type: line-break, offset: 30, content: '', id: KX_15}
+  - {type: 'tls:seg', offset: 37, content: '', id: KR3fc059_tls_001-p2.s16}
+  - {type: line-break, offset: 37, content: '', id: KX_16}
+  - {type: 'tls:seg', offset: 45, content: '', id: KR3fc059_tls_001-p2.s17}
+  - {type: line-break, offset: 45, content: '', id: KX_17}
+  - {type: 'tls:seg', offset: 53, content: '', id: KR3fc059_tls_001-p2.s18}
+  - {type: line-break, offset: 53, content: '', id: KX_18}
+  - {type: 'tls:seg', offset: 64, content: '', id: KR3fc059_tls_001-p2.s19}
+  - {type: line-break, offset: 64, content: '', id: KX_19}
+  - {type: 'tls:seg', offset: 82, content: '', id: KR3fc059_tls_001-p2.s20}
+  - {type: line-break, offset: 82, content: '', id: KX_20}
+  - {type: 'tls:seg', offset: 91, content: '', id: KR3fc059_tls_001-p2.s21}
+  - {type: line-break, offset: 91, content: '', id: KX_21}
+  back: []
+hash: sha256:3f9be7fb00f5fe5649cc1a02d9e5304f6009797cde45776dde75f941972fdeac
