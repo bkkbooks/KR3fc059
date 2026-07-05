@@ -5,10 +5,8 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR3fc059_tls_001-p2.s1}
   - {type: line-break, offset: 0, content: '', id: KX_1}
-  - {type: substitution, offset: 2, original: 筭, replacement: 算, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3838}}
   - {type: 'tls:seg', offset: 6, content: '', id: KR3fc059_tls_001-p2.s2}
   - {type: line-break, offset: 6, content: '', id: KX_2_dup2, _xml_error: duplicate-id, _xml_original_id: KX_2}
-  - {type: substitution, offset: 9, original: 銳, replacement: 鋭, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4559}}
   - {type: 'tls:seg', offset: 11, content: '', id: KR3fc059_tls_001-p2.s3}
   - {type: line-break, offset: 11, content: '', id: KX_3_dup2, _xml_error: duplicate-id, _xml_original_id: KX_3}
   - {type: 'tls:seg', offset: 15, content: '', id: KR3fc059_tls_001-p2.s12}
@@ -29,9 +27,7 @@ markers:
   - {type: line-break, offset: 64, content: '', id: KX_19}
   - {type: 'tls:seg', offset: 82, content: '', id: KR3fc059_tls_001-p2.s20}
   - {type: line-break, offset: 82, content: '', id: KX_20}
-  - {type: substitution, offset: 82, original: 荅, replacement: 答, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3494}}
   - {type: 'tls:seg', offset: 91, content: '', id: KR3fc059_tls_001-p2.s21}
   - {type: line-break, offset: 91, content: '', id: KX_21}
-  - {type: substitution, offset: 107, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
   back: []
-hash: sha256:3bf3fe1d3a9720a9c49898201e0861346d728cb2e243639da8cb6f1f168abb3e
+hash: sha256:81398476446fe8af0fe4c7a4911be27ce2903bd16c6c8e8a470de9737baa9d93
