@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 矢羃求弧背元代李冶用三乘方取矢度引信觸類厥法綦詳矣明顧箬溪應祥作弧矢算術既如積之未明徒開方之是衍務末遺本不亦傎乎銳受學師門泛觀古籍研九數者十年冀千慮之一得爰集弧矢之問入以天元之法凡十三術都為一卷願與海内游藝之士共審正焉元和李銳
-  hash: sha256:baa61bd53b6a7e140f746e74b630a20a9bfcf13bc7013c85cc3f3f827eb2b090
+  text: 矢羃求弧背元代李冶用三乘方取矢度引信觸類厥法綦詳矣明顧箬溪應祥作弧矢算術既如積之未明徒開方之是衍務末遺本不亦傎乎鋭受學師門泛觀古籍研九數者十年冀千慮之一得爰集弧矢之問入以天元之法凡十三術都為一卷願與海內遊藝之士共審正焉元和李鋭
+  hash: sha256:80836fd5ad34bd2f7d85ab07c072aacb0a37852c04ba6ca8f806949975adaa5a
 metadata:
   title: 弧矢算術細草
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc059.xml
-hash: sha256:3929584d9735ae35176deed6c5dd79a138ba5ed65cad8ff043aaee8198cc9d5c
+hash: sha256:4a5a5b40ba34138b52e722482731bd6d87370df21322e2a997b0ded4b7429af4
